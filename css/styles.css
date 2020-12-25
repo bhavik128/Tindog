@@ -1,0 +1,145 @@
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 3.7rem;
+  line-height: 1.5;
+}
+
+button {
+  margin: 45px 20px 45px 0;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+h3 {
+  font-weight: 600;
+}
+
+p {
+  color: #8f8f8f;
+  font-size: 20px;
+}
+
+em {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+}
+
+#title {
+  background-color: #ff4c68;
+  color: white;
+  overflow: hidden;
+  height: 740px;
+}
+
+#features {
+  padding: 140px 60px 140px 60px;
+}
+
+#testimonials {
+  text-align: center;
+  background-color: #ef8172;
+  color: white;
+}
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+#pricing {
+  padding: 120px 100px;
+  text-align: center;
+}
+
+#cta {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #ff4c68;
+  text-align: center;
+  color: white;
+  padding: 20px 420px;
+  margin-bottom: 100px;
+}
+
+#footer {
+  text-align: center;
+  background-color: white;
+}
+
+.logo {
+  margin-left: 86px;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 30px;
+  font-weight: 900;
+}
+
+.nav-bar {
+  padding-top: 30px;
+  padding-bottom: 4rem;
+  padding-right: 55px;
+}
+
+.nav-item {
+  padding: 0 18px;
+  font-size: 20px;
+}
+
+.iphone6Image {
+  margin-left: 60px;
+  width: 320px;
+  transform: rotate(25deg);
+}
+
+.features-row {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.features-item {
+  padding: 30px 30px 30px 30px;
+}
+
+.features-img {
+  font-size: 6.3rem;
+  color: #ef8172;
+  padding-bottom: 20px
+}
+
+.features-img:hover {
+  color: #ff4c68;
+}
+
+.testimonials-img {
+  width: 150px;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item {
+  padding: 80px 300px 80px 300px;
+}
+
+.press-img {
+  width: 300px;
+  padding: 30px 30px 60px 30px;
+}
+
+.pricing-div-row {
+  padding-top: 45px;
+}
+
+.cta-title {
+  padding-top: 60px;
+  padding-bottom: 27px;
+  font-size: 48px;
+}
+
+.footer-img {
+  padding: 10px 10px 15px 10px;
+}
